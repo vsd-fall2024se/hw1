@@ -1,15 +1,9 @@
-import numpy as np
+def addition(x,y):
+    if(x<0): x*=-1
+    if(y<0): y*=-1
+    return x+y
 
-A = np.ones((5, 5))
-
-
-A[:, 1] = 5
-
-
-s=[]
-for i in range(5):
-    sm=0
-    for j in range(5):
-      sm+=A[i][j]
-    s.append(sm)
-prin(s)
+x = -3
+y = 5
+ans = addition(x,y)
+prin(ans)
