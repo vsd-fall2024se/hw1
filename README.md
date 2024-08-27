@@ -1,4 +1,4 @@
-[![Python Tests](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml/badge.svg)](https://github.com/johndoe/my-python-project/actions/workflows/python-tests.yml)
+[![Pytest](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml/badge.svg)](https://github.com/johndoe/my-python-project/actions/workflows/python-tests.yml)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
