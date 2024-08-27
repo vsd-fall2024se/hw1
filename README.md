@@ -1,4 +1,4 @@
-![Test Status](https://github.com/vsd-fall2024se/hw1/blob/main/.github/workflows/python-tests.yml/badge.svg?event=push)
+[![Python Tests](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml/badge.svg)](https://github.com/johndoe/my-python-project/actions/workflows/python-tests.yml)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
