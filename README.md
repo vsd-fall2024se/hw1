@@ -1,4 +1,4 @@
-[![Python Tests](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml/badge.svg?event=push)](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml?event=push)
+[![Python Tests](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml/badge.svg?event=push,pull_request)](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml?event=push)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
