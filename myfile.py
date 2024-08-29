@@ -6,7 +6,7 @@ def addition(x,y):
 x = -3
 y = 5
 ans = addition(x,y)
-prin(ans)
+print(ans)
 
 def multiplication(x,y):
     if(x<0): x*=-1
