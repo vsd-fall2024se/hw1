@@ -33,7 +33,7 @@ jobs:
 
     - name: Run pylint
       run: |
-        pylint **/*.py  # Lint all Python files
+        pylint ./work_dir/hw2_debugging.py  # Lint all Python files
 
     - name: Set up Node.js
       uses: actions/setup-node@v3

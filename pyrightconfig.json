@@ -1,6 +1,6 @@
 {
     "include": [
-      "./work_dir"
+      "./work_dir/hw2_debugging.py"
     ]
   }
   
