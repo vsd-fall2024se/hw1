@@ -1,0 +1,23 @@
+************* Module hw2_debugging
+work_dir/hw2_debugging.py:6:0: C0103: Function name "merge_Sort" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:6:15: W0621: Redefining name 'arr' from outer scope (line 39) (redefined-outer-name)
+work_dir/hw2_debugging.py:15:21: E0602: Undefined variable 'mergeSort' (undefined-variable)
+work_dir/hw2_debugging.py:15:44: E0602: Undefined variable 'mergeSort' (undefined-variable)
+work_dir/hw2_debugging.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+work_dir/hw2_debugging.py:18:14: C0103: Argument name "leftArr" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:18:23: C0103: Argument name "rightArr" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:19:4: C0103: Variable name "leftIndex" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:20:4: C0103: Variable name "rightIndex" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:21:4: C0103: Variable name "mergeArr" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:24:12: C0103: Variable name "rightIndex" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:27:12: C0103: Variable name "leftIndex" doesn't conform to snake_case naming style (invalid-name)
+work_dir/hw2_debugging.py:40:10: E0602: Undefined variable 'mergeSort' (undefined-variable)
+************* Module rand
+work_dir/rand.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+work_dir/rand.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+work_dir/rand.py:6:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+work_dir/rand.py:7:23: W1510: 'subprocess.run' used without explicitly defining the value for 'check'. (subprocess-run-check)
+
+------------------------------------------------------------------
+Your code has been rated at 0.65/10 (previous run: 5.48/10, -4.84)
+

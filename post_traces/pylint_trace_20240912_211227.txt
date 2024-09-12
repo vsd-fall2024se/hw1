@@ -1,0 +1,8 @@
+************* Module rand
+work_dir/rand.py:14:23: W1510: 'subprocess.run' used without explicitly defining the value for 'check'. (subprocess-run-check)
+work_dir/rand.py:12:8: W0612: Unused variable 'i' (unused-variable)
+work_dir/rand.py:12:10: W0612: Unused variable 'x' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 9.03/10 (previous run: 8.71/10, +0.32)
+

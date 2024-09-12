@@ -1,0 +1,7 @@
+************* Module rand
+work_dir/rand.py:12:8: W0612: Unused variable 'idx' (unused-variable)
+work_dir/rand.py:12:12: W0612: Unused variable 'ele' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 9.35/10 (previous run: 9.03/10, +0.32)
+

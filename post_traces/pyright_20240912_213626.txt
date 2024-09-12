@@ -1,0 +1,5 @@
+/workspaces/se_trial/work_dir/hw2_debugging.py
+  /workspaces/se_trial/work_dir/hw2_debugging.py:25:70 - error: Expected expression
+  /workspaces/se_trial/work_dir/hw2_debugging.py:25:70 - error: Type annotation not supported for this statement (reportInvalidTypeForm)
+  /workspaces/se_trial/work_dir/hw2_debugging.py:26:1 - error: Unexpected indentation
+3 errors, 0 warnings, 0 informations 
