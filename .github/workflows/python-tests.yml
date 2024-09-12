@@ -17,6 +17,37 @@ jobs:
     - name: Run tests
       run: pytest --cov
 
+    - name: Install autopep8
+      run: |
+        python -m pip install --upgrade pip
+        pip install autopep8
+
+    - name: Run autopep8
+      run: |
+        autopep8 --in-place --aggressive --aggressive **/*.py
+
+    - name: Install pylint
+      run: |
+        python -m pip install --upgrade pip
+        pip install pylint
+
+    - name: Run pylint
+      run: |
+        pylint **/*.py  # Lint all Python files
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'  # Change this to the Node.js version compatible with pyright
+
+    - name: Install pyright
+      run: |
+        npm install -g pyright
+
+    - name: Run pyright
+      run: |
+        pyright
+
     - name: Upload results to Codecov
       uses: codecov/codecov-action@v4
       with:
