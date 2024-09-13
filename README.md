@@ -8,7 +8,7 @@
 
 [![codecov](https://codecov.io/gh/vsd-fall2024se/hw1/branch/main/graph/badge.svg)](https://codecov.io/gh/vsd-fall2024se/hw1)
 
-[![Pyright Status](https://img.shields.io/github/actions/workflow/status/workspaces/hw1/.github/workflows/pyright.yml)](https://microsoft.github.io/pyright/#/)
+[![Pyright Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/autopep8.yml)](https://microsoft.github.io/pyright/#/)
 
 [![autopep8 Status](https://img.shields.io/github/actions/workflow/status/<username>/<repo>/autopep8.yml?branch=main)](https://pypi.org/project/autopep8/)
 
