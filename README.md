@@ -1,8 +1,8 @@
-[![Autopep8 Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/autopep8.yml/badge.svg)](https://pypi.org/project/autopep8)
+[![Autopep8 Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/autopep8.yml/badge.svg)](https://github.com/vsd-fall2024se/hw1/actions/workflows/autopep8.yml)
 
-[![Pyright Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/pyright.yml/badge.svg)](https://microsoft.github.io/pyright/#/)
+[![Pyright Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/pyright.yml/badge.svg)](https://github.com/vsd-fall2024se/hw1/actions/workflows/pyright.yml)
 
-[![Pylint Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/pylint.yml/badge.svg)](https://pypi.org/project/pylint/)
+[![Pylint Status](https://github.com/vsd-fall2024se/hw1/actions/workflows/pylint.yml/badge.svg)](https://github.com/vsd-fall2024se/hw1/actions/workflows/pylint.yml)
 
 [![Python Tests](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml/badge.svg)](https://github.com/vsd-fall2024se/hw1/actions/workflows/python-tests.yml)
 
